@@ -69,11 +69,6 @@ Sign in prompt only, no report:
 .\IntuneAssignmentChecker.ps1 -TenantId 'YOUR-TENANT-GUID'
 ```
 
-If you renamed the patched file and want to keep both scripts, just call the patched one:
-
-```powershell
-.\IntuneAssignmentChecker_patched.ps1 -TenantId 'YOUR-TENANT-GUID' -GenerateHTMLReport
-```
 
 ## Execution policy tip
 
