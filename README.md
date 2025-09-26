@@ -1,6 +1,5 @@
-Here is a clean README you can drop into the project.
-
 # Intune Assignment Checker
+Original Repo: https://github.com/ugurkocde/IntuneAssignmentChecker
 
 Generate a human-readable HTML report of Intune configuration assignments. The script is designed to run from `C:\Intune-Assignment-Checker`, and it will save reports to `C:\Intune-Assignment-Checker\Reports`.
 
