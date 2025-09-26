@@ -23,9 +23,9 @@ Copy this project folder to `C:\` on the target device.
 
 ## Clone Repo to Local C: 
 * To run this script, start by cloning this repo to your local C:\ as a Zip file.
-* <img width="603" height="431" alt="image" src="https://github.com/user-attachments/assets/4289b2ab-1b7b-49be-869c-1458569a2413" />
+* <img width="400" height="331" alt="image" src="https://github.com/user-attachments/assets/4289b2ab-1b7b-49be-869c-1458569a2413" />
 * Save the Zip File to the root of your C:\
-* Then Unzip the f
+* Then Unzip the file to the root C:\
 
 
 ## Install Microsoft Graph Auth module
