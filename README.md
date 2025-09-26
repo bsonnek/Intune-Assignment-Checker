@@ -10,14 +10,6 @@ Generate a human-readable HTML report of Intune configuration assignments. The s
 * Account with permission to read Intune configuration and assignments
   (for example, Intune Administrator or custom role with read access)
 
-## Install Microsoft Graph Auth module
-
-```powershell
-Install-Module Microsoft.Graph.Authentication -Scope CurrentUser
-```
-
-If prompted to trust the repository, choose Yes.
-
 ## Recommended folder layout
 
 ```
@@ -27,8 +19,24 @@ C:\
     README.md
     Reports\   (created automatically on first run)
 ```
-
 Copy this project folder to `C:\` on the target device.
+
+## Clone Repo to Local C: 
+* To run this script, start by cloning this repo to your local C:\ as a Zip file.
+* <img width="603" height="431" alt="image" src="https://github.com/user-attachments/assets/4289b2ab-1b7b-49be-869c-1458569a2413" />
+* Save the Zip File to the root of your C:\
+* Then Unzip the f
+
+
+## Install Microsoft Graph Auth module
+
+```powershell
+Install-Module Microsoft.Graph.Authentication -Scope CurrentUser
+```
+
+If prompted to trust the repository, choose Yes.
+
+
 
 ## Retrieve your Tenant ID
 
